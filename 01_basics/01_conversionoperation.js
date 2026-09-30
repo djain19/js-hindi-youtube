@@ -15,3 +15,19 @@ console.log(valueInNumber)
 // 1=>true,0=>false
 // ""=>false
 // "darshan"=>true
+
+
+// ***********operations***********
+
+let value =3 ;
+let negvalue = -value
+console.log(negvalue)
+
+console.log("1"+ 2);
+console.log(1+"2");
+console.log("1"+2+ 2);
+console.log(1+2+"2");
+
+console.log(true);
+console.log(+true);
+console.log(+"");
